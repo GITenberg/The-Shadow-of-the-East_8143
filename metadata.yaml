@@ -1,5 +1,8 @@
 _repo: The-Shadow-of-the-East_8143
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hull, E. M. (Edith Maude)
@@ -12,6 +15,8 @@ description: Edith Maude Hull was a British novelist best known for being the au
   of the romantic novel The Sheik which became an international best seller. The Shadow
   of the East is a romance of the Orient and was the second novel written by Hull.
   Originally published in 1921.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8143#The-Shadow-of-the-East
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
